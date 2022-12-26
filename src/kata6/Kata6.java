@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication14;
+package kata6;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
@@ -27,7 +27,7 @@ import static sun.security.krb5.Confounder.bytes;
  *
  * @author Entrar
  */
-public class JavaApplication14 {
+public class Kata6 {
 
     /**
      * @param args the command line arguments

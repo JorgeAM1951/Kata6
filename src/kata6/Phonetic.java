@@ -1,4 +1,4 @@
-package javaapplication14;
+package kata6;
 
 import com.google.gson.annotations.SerializedName;
 import javax.xml.bind.annotation.XmlElement;
